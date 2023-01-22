@@ -50,7 +50,7 @@ st.markdown(hide_st_style, unsafe_allow_html=True)
 st.image(logo_img, width=150)
 st.markdown("<h1 style='text-align: center; color: white;'>FinTech at USC</h1>", unsafe_allow_html=True)
 st.markdown(
-    '<div style="text-align: center;">Students interested in and exited about the future of Financial Technology '
+    '<div style="text-align: center;">Students interested in and excited about the future of Financial Technology '
     '&#x1F64C;'
     '</div>', unsafe_allow_html=True)
 st.markdown("#")
